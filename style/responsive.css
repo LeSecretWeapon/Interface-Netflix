@@ -9,6 +9,9 @@
         width: 300px;
     }
 
+    .filme-principal{
+        background-position: 30% 50%; /*Deixa a imagem um pouco melhor de visibilidade*/
+    }
 }
 
 @media screen and (min-width:1000px){
